@@ -63,3 +63,18 @@ function createFeatures(earthquakeData) {
   }).addTo(myMap);
 
 }
+
+// Looping through the cities array, create one marker for each city, bind a popup 
+//for (let i =0; i < )
+
+
+// //Create a new marker
+// L.circle([37.6227, -104.7804, {
+//   color: "green",
+//   fillColor: "yellow",
+//   fillOpacity: 0.75,
+//   radius: 500
+// }).addTo(myMap);
+
+
+
